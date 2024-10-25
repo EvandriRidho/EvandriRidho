@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **evandriridho321@gmail.com**
 
-- ⚡ Fun fact **I think I am Shiina Mahiru BF**
+- ⚡ Fun fact **I am Shiina Mahiru BF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
