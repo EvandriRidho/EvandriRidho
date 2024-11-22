@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Netflix Clone](https://github.com/EvandriRidho/Netflix-Clone)
 
-- 💬 Ask me about **react, javascript, tailwind**
+- 💬 Ask me about **react, javascript, Node Js**
 
 - 📫 How to reach me **evandriridho321@gmail.com**
 
