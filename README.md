@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evandri Ridho Hasmono</h1>
 <h3 align="center">A passionate Web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Travel Story](https://github.com/EvandriRidho/travel-story)
+- 🔭 I’m currently working on [Food Delivery](https://github.com/EvandriRidho/food-delivery)
 
 - 🌱 I’m currently learning **JavaScript**
 
