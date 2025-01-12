@@ -63,9 +63,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/EvandriRidho/EvandriRidho/output/snake.svg" alt="Snake animation" />
-
-###
