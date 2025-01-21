@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: JavaScript Master<br>🎲 Fun fact: I'am Shiina Mahiru BF</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Go<br>🎯 Goals: Be Better<br>🎲 Fun fact: I'am Shiina Mahiru BF</p>
 
 ###
 
