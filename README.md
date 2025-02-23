@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently Learn Laravel<br>🎯 Goal: Software Development<br>🎲 Fun fact: Proudly Shiina Mahiru BF (in my dreams 😆)</p>
+<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently Learn JavaScript<br>🎯 Goal: Software Development<br>🎲 Fun fact: Proudly Shiina Mahiru BF (in my dreams 😆)</p>
 
 ###
 
@@ -68,12 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
 ###
