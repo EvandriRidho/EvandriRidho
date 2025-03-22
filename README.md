@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently Learn PHP<br>🎯 Goal: Software Development<br>🎲 Fun fact: Proudly Shiina Mahiru BF (in my dreams 😆)</p>
+<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently Learn JavaScript<br>🎯 Goal: Software Development<br>🎲 Fun fact: Proudly Shiina Mahiru BF (in my dreams 😆)</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
 ###
