@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Evandri Ridho Hasmono. I am currently pursuing a degree in Information Technology with a strong passion for software development. I am dedicated to expanding my technical expertise and building innovative solutions to real-world problems.</p>
+<p align="left">I'm Evandri Ridho Hasmono, an Information Technology student with a deep passion for software development. I thrive on pushing technical boundaries, crafting innovative solutions, and turning complex challenges into streamlined, impactful applications. Constantly evolving, I'm driven to master new technologies and build software that makes a real difference.</p>
 
 ###
 
