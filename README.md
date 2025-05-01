@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently diving deep into JavaScript<br>🎯 Aspiring Software Developer & Future AI Engineer<br>🎲 Fun fact: Officially Shiina Mahiru’s boyfriend… in my dreams 😆</p>
+<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently diving deep into JavaScript and Python<br>🎯 Aspiring Software Developer & Future AI Engineer<br>🎲 Fun fact: Officially Shiina Mahiru’s boyfriend… in my dreams 😆</p>
 
 ###
 
