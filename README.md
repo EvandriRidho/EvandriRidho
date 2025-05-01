@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Evandri Ridho Hasmono, an Information Technology student with a deep passion for software development. I thrive on pushing technical boundaries, crafting innovative solutions, and turning complex challenges into streamlined, impactful applications. Constantly evolving, I'm driven to master new technologies and build software that makes a real difference.</p>
+<p align="left">My name is Evandri Ridho Hasmono. I am currently pursuing a degree in Information Technology with a strong passion for software development. I am dedicated to expanding my technical expertise and building innovative solutions to real-world problems.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently Learn JavaScript<br>🎯 Goal: Software Development<br>🎲 Fun fact: Proudly Shiina Mahiru BF (in my dreams 😆)</p>
+<p align="left">🚀 Crafting code (and occasional bugs) since 2023<br>📚 Currently diving deep into JavaScript<br>🎯 Aspiring Software Developer & Future AI Engineer<br>🎲 Fun fact: Officially Shiina Mahiru’s boyfriend… in my dreams 😆</p>
 
 ###
 
@@ -21,7 +21,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
