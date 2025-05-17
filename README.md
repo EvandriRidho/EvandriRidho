@@ -16,7 +16,7 @@
 <ul align="left">
   <li>🚀 Coding since 2023 — sometimes it works on the first try (rarely 🤓)</li>
   <li>📚 Currently deep diving into <strong>JavaScript</strong> and <strong>Python</strong></li>
-  <li>🎯 Future <strong>Fullstack Developer</strong> & AI Engineer in training</li>
+  <li>🎯 Future <strong>Software Development</strong> & AI Engineer in training</li>
   <li>💬 Fluent in HTML, sarcasm, and talking to my rubber duck</li>
   <li>😆 Fun fact: I'm officially Shiina Mahiru’s boyfriend... in a parallel universe</li>
 </ul>
