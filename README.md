@@ -1,10 +1,10 @@
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey, I'm Evandri! 👋</h1>
 
 ###
 
 <p align="center">
-  I'm <strong>Evandri Ridho Hasmono</strong>, a tech enthusiast on a mission to turn caffeine into code ☕💻.<br />
-  Currently pursuing a degree in <strong>Information Technology</strong> and building cool stuff along the way.
+  <strong>Tech enthusiast. Code whisperer. Future AI Engineer.</strong><br />
+  Currently turning ☕ + 💻 into dreams — one line of code at a time.
 </p>
 
 ###
@@ -14,16 +14,18 @@
 ###
 
 <ul align="left">
-  <li>🚀 Coding since 2023 — sometimes it works on the first try (rarely 🤓)</li>
-  <li>📚 Currently deep diving into <strong>JavaScript</strong> and <strong>Python</strong></li>
-  <li>🎯 Future <strong>Software Development</strong> & AI Engineer in training</li>
-  <li>💬 Fluent in HTML, sarcasm, and talking to my rubber duck</li>
-  <li>😆 Fun fact: I'm officially Shiina Mahiru’s boyfriend... in a parallel universe</li>
+  <li>🎓 Studying <strong>Information Technology</strong>, majoring in curiosity</li>
+  <li>💻 Started coding in 2023 — still wondering how it sometimes works on the first try</li>
+  <li>🔍 Currently focused on <strong>JavaScript</strong>, <strong>Python</strong>, and diving into AI</li>
+  <li>🧠 On a lifelong mission to master <strong>Software Development</strong> and <strong>Artificial Intelligence</strong></li>
+  <li>🧩 Fluent in HTML, sarcasm, and conversations with my rubber duck</li>
+  <li>💡 I learn best by doing — real code, real bugs, real growth</li>
+  <li>💘 Fun fact: In a parallel universe, Shiina Mahiru and I are the power couple of the tech world</li>
 </ul>
 
 ###
 
-<h2 align="left">🛠️ Programming Languange</h2>
+<h2 align="left">⚙️ Tech Stack</h2>
 
 ###
 
@@ -37,7 +39,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 
@@ -49,3 +51,6 @@
 
 ---
 
+<p align="center">
+  <i>"Don't fear mistakes. Bugs are just stepping stones to brilliance." — Also me, after spending 3 hours debugging a missing semicolon.</i>
+</p>
