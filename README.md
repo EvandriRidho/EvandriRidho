@@ -6,7 +6,7 @@
 
 ----
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me ###
 
 - 🎓 I'm a final-year Information Technology student passionate about **software development**.
 - 💻 Started programming in 2023. I'm a strong believer in learning by doing — build it, break it, fix it, learn it.
