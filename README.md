@@ -28,9 +28,8 @@
 
 ### 🚀 Current Focus
 
-- 🛠️ Improving backend skills with **Golang** and **TypeScript**.
+- 🛠️ Improving backend skills with **JavaScript** and **TypeScript**.
 - 📚 Deepening understanding of **system design**, **API development**, and **software architecture**.
-- 🧪 Final year research: building and analyzing a web-based food ordering system (**Rizquna Bakery**) using the MERN Stack.
 
 ---
 
