@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds.</i>
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </p>
