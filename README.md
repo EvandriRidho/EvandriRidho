@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Evandri Ridho Hasmono 👋</h1>
 
 <p align="center">
-  <em>Software Developer</em>
+  <em>Software Developer.</em>
 </p>
 
 ----
