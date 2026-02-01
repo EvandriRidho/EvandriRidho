@@ -31,18 +31,6 @@
 - 🛠️ Improving backend skills with **JavaScript** and **TypeScript**.
 - 📚 Deepening understanding of **system design**, **API development**, and **software architecture**.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvandriRidho&layout=compact&theme=tokyonight&card_width=320" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=EvandriRidho&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvandriRidho&theme=tokyo-night&area=true&radius=16" height="300" alt="Activity Graph" />
-</div>
-
----
-
 <p align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds.</i>
 </p>
