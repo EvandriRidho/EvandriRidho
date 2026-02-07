@@ -11,8 +11,8 @@
 - 🎓 I'm a final-year Information Technology student passionate about **software Engineer**.
 - 💻 Started programming in 2023. I'm a strong believer in learning by doing — build it, break it, fix it, learn it.
 - 🔍 Career interest: **Software Engineer**
-- 📖 Lifelong learner with a passion for clean code, Javascript/Typescript, and late-night debugging.
-- 🎮 Fun fact: If I’m not coding, I’m probably lost in a JRPG or recovering from an accidental nap at 3 PM.
+- 📖 Lifelong learner with a passion for clean code, Typescript, and late-night debugging.
+- 🎮 Fun fact: not human
 
 ---
 
