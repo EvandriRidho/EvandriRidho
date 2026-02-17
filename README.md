@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Engineer</p>
+<p align="center">Talk is cheap show me the code - Linus Torvalds</p>
 
 ###
 
