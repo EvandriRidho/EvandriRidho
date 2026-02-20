@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Talk is cheap show me the code - Linus Torvalds</p>
+<p align="center">Talk is cheap show me the code - Linus Torvalds.</p>
 
 ###
 
