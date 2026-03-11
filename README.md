@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Talk is cheap show me the code. - Linus Torvalds.</p>
+<p align="center">""Talk is cheap. Show me the code." - Linus Torvalds</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | Machine Learning<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction<br>🎮 Currently developing GameShelf<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
+<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | Machine Learning<br>🏗 System-Oriented — Future Technical Architect<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction<br>🎮 Currently developing GameShelf<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Frontend</h2>
+<h2 align="left">Front End</h2>
 
 ###
 
@@ -94,6 +94,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
