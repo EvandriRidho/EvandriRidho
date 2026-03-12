@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | Machine Learning<br>🏗 System-Oriented — Future Technical Architect<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction<br>🎮 Currently developing GameShelf<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
+<p align="left">🎓 Information Technology Student.<br>💻 Software Engineer | Machine Learning.<br>🏗 System-Oriented — Future Technical Architect.<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction.<br>🎮 Currently developing GameShelf.<br>🧠 Focused on scalable systems, clean architecture, and backend engineering.<br>💡 Learning by building real systems, solving real problems.</p>
 
 ###
 
