@@ -2,15 +2,11 @@
 
 ###
 
-<p align="center">"Talk is cheap. Show me the code" - Linus Torvalds</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🎓 Information Technology Student.<br>💻 Software Engineer | Machine Learning.<br>🏗 System-Oriented — Future Technical Architect.<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction.<br>🎮 Currently developing GameShelf.<br>🧠 Focused on scalable systems, clean architecture, and backend engineering.<br>💡 Learning by building real systems, solving real problems.</p>
+<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction<br>🎮 Currently developing GameShelf<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
 
 ###
 
@@ -62,7 +58,7 @@
 
 ###
 
-<h2 align="left">Database</h2>
+<h2 align="left">Database & ORM</h2>
 
 ###
 
@@ -72,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
 ###
