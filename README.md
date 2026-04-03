@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Database & ORM</h2>
+<h2 align="left">Database</h2>
 
 ###
 
