@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer | Backend Engineer<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, SparePart Monitoring, GameShelf<br>🎮 Currently developing TomatoNet<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
+<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, Spare Part Monitoring, GameShelf<br>🎮 Currently developing TomatoNet<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
 ###
@@ -58,7 +62,7 @@
 
 ###
 
-<h2 align="left">Database</h2>
+<h2 align="left">Database & ORM</h2>
 
 ###
 
@@ -74,7 +78,7 @@
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Tools & Workflow</h2>
 
 ###
 
@@ -92,6 +96,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
