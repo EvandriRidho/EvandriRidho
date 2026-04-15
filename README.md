@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer | Data<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, Spare Part Monitoring, GameShelf, and TomatoLeafDiseases<br>🎮 Currently learn python<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
+<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer | Data<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, Spare Part Monitoring, GameShelf, and TomatoLeafDiseases<br>🎮 Currently learning python<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
 
 ###
 
