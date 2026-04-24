@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | ML Engineer | Data Analyst<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, Spare Part Monitoring, GameShelf, and TomatoLeafDiseases<br>🎮 Currently learning python<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
+<p align="left">🎓 Information Technology Student<br>💻 Software Engineer | Data Science Enthusiast | Full-stack Developer<br>🏗 System-Oriented<br>🚀 Built Rizquna Bakery, BLIP Banking Sales Prediction, Spare Part Monitoring, GameShelf, and TomatoLeafDiseases<br>🎮 Currently developing Sign-Languange-App<br>🧠 Focused on scalable systems, clean architecture, and backend engineering<br>💡 Learning by building real systems, solving real problems</p>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
 ###
